@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.0",
+  "versao": "1.0.1",
   "url": "https://github.com/alexhashimura/MonitorPJe-Atualizacoes/releases/latest/download/Instalador_MonitorPJe.exe",
   "sha256": "0fe577eaeb0b873b69b60fcd373081110f71113e7196f1c8ec74d95f740626bc",
-  "notas": "Instalação inicial do sistema de atualizações."
+  "notas": "Teste controlado do sistema de atualização automática."
 }
