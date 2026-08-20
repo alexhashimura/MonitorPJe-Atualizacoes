@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.0",
+  "versao": "1.0.2",
   "url": "https://github.com/alexhashimura/MonitorPJe-Atualizacoes/releases/latest/download/Instalador_MonitorPJe.exe",
-  "sha256": "2abc6fbe2596bbd43e9f12847ccf7a1c97bd3f04854b05e8e70947b20ce62b6b",
-  "notas": "Instalação inicial do sistema de atualizações."
+  "sha256": "6a036f856e86355fd42722242f0ed34426c534af63555b31e05a176462f69568",
+  "notas": "Consulta somente da instância ativa, intervalo de segurança entre consultas, retentativa seletiva de erros técnicos e acesso ao modelo Excel."
 }
