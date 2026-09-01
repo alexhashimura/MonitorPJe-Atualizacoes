@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.3",
-  "url": "https://github.com/alexhashimura/MonitorPJe-Atualizacoes/releases/latest/download/Instalador_MonitorPJe.exe",
-  "sha256": "cf30b53c7b55ad0c768db5217b858b981a6ec7c0cd893e4bf65cd5ef5273b3f9",
-  "notas": "Múltiplos agendamentos com listas Excel independentes, execução silenciosa automática, fila contra consultas simultâneas e gerenciamento individual das programações."
+    "versao":  "1.0.4",
+    "url":  "https://github.com/alexhashimura/MonitorPJe-Atualizacoes/releases/latest/download/Instalador_MonitorPJe.exe",
+    "sha256":  "1e507c3f7d0426e5a184308deb993c9ac132378a68c6fee1540faf64763ebd00",
+    "notas":  "Autenticação no PJe, consulta individual e monitoramento em lote de processos sigilosos, extração completa da cronologia e relatórios próprios."
 }
