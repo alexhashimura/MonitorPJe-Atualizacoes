@@ -1,6 +1,6 @@
 {
-    "versao":  "1.0.4",
+    "versao":  "1.0.5",
     "url":  "https://github.com/alexhashimura/MonitorPJe-Atualizacoes/releases/latest/download/Instalador_MonitorPJe.exe",
-    "sha256":  "1e507c3f7d0426e5a184308deb993c9ac132378a68c6fee1540faf64763ebd00",
-    "notas":  "Autenticação no PJe, consulta individual e monitoramento em lote de processos sigilosos, extração completa da cronologia e relatórios próprios."
+    "sha256":  "3da7d0cf462ed21cf32c7f3501223e8a82e815a2281939bfa0dc97d3ffd290a7",
+    "notas":  "Corrige falsos positivos na comparação de andamentos, preserva o histórico existente, rejeita respostas incompletas do PJe e ajusta a consulta individual sigilosa para mostrar somente itens novos."
 }
