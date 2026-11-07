@@ -1,6 +1,6 @@
 {
-  "versao": "1.0.6",
-  "url": "https://github.com/alexhashimura/MonitorPJe-Atualizacoes/releases/latest/download/Instalador_MonitorPJe.exe",
-  "sha256": "D28E3AAEB56BDAD592509D0EBD4B1CB10282B93088A03B74676CA530886D2631",
-  "notas": "Adaptacao ao novo PJe TRF1, correcoes na identificacao de instancias e partes, melhorias na deteccao de remessas e selecao da instancia ativa."
+    "versao":  "1.0.7",
+    "url":  "https://github.com/alexhashimura/MonitorPJe-Atualizacoes/releases/latest/download/Instalador_MonitorPJe.exe",
+    "sha256":  "79265072C6E8B823C370AEFFD190BC20711CF768DDD7A528CD1D27195E0D0D8B",
+    "notas":  "Correcoes na consulta publica do PJe TRF1, identificacao automatica do grau ativo, extracao de movimentacoes e prevencao de duplicidades."
 }
